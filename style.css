@@ -1,0 +1,88 @@
+:root {
+     --primary-color: #F2C94C;
+     --secondary-color: green;
+}
+
+* {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+
+body {
+     font-family: 'Montserrat', sans-serif;
+     background-color: var(--primary-color);
+}
+
+h1 {
+     color: var(--secondary-color);
+     text-align: center;
+     margin: 1rem;
+     text-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.441);
+}
+
+.container {
+     width: 100%;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+}
+
+#input,
+#output {
+     width: 70%;
+     height: 9rem;
+     padding: 1.5rem;
+     margin: .5rem;
+     border-radius: 0.8rem;
+     outline: none;
+     border: none;
+     box-shadow: 0 0 0.5rem black;
+     font-size: 1.2rem;
+     background-color: transparent;
+}
+
+#btn {
+     padding: .5rem 1.3rem;
+     margin: .5rem;
+     border-radius: 0.5rem;
+     background-color: var(--secondary-color);
+     color: white;
+     font-weight: bold;
+     font-size: 1.3rem;
+     outline: none;
+     border: none;
+     box-shadow: 0 0 0.5rem black;
+}
+
+#btn:hover {
+     cursor: pointer;
+     background-color: var(--primary-color);
+     color: var(--secondary-color);
+}
+
+footer {
+     position: fixed;
+     bottom: 0;
+     width: 100%;
+     text-align: center;
+     padding: 1rem;
+     font-size: 1.1rem;
+}
+
+h2 {
+     color: var(--secondary-color);
+     text-align: center;
+     text-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.441);
+}
+
+p {
+     color: var(--secondary-color);
+     text-align: center;
+}
+
+a {
+     text-decoration: none;
+     color: var(--secondary-color);
+}
