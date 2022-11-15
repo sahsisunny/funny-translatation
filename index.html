@@ -4,6 +4,8 @@
 <head>
      <meta charset="UTF-8">
      <link rel="stylesheet" href="./style.css">
+     <!-- favicon -->
+     <link rel="icon" href="./assets/banana.ico" type="image/x-icon">
      <title>Banana Talk</title>
 </head>
 
@@ -11,8 +13,18 @@
 
      <h1>Banana Talk</h1>
      <div class="container">
+          <!-- select items -->
+          <div class="select">
+               <p>Select the Character : </p>
+               <select id="select">
+                    <option selected value="minion">Minion</option>
+                    <option value="yoda">Yoda</option>
+                    <option value="pirate">Pirate</option>
+               </select>
+          </div>
           <textarea id="input" placeholder="Enter your text here"></textarea>
           <button id="btn">Translate</button>
+
           <textarea id="output" placeholder="Translation will appear here"></textarea>
      </div>
      <footer>

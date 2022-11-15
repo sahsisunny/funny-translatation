@@ -32,9 +32,9 @@ h1 {
 #input,
 #output {
      width: 70%;
-     height: 9rem;
+     height: 220px;
      padding: 1.5rem;
-     margin: .5rem;
+     margin: 1rem;
      border-radius: 0.8rem;
      outline: none;
      border: none;
@@ -63,7 +63,6 @@ h1 {
 }
 
 footer {
-     position: fixed;
      bottom: 0;
      width: 100%;
      text-align: center;
@@ -85,4 +84,41 @@ p {
 a {
      text-decoration: none;
      color: var(--secondary-color);
+}
+
+.select {
+     outline: none;
+     border: none;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: row;
+     border-radius: 0.5rem;
+     background-color: var(--secondary-color);
+     box-shadow: 0 0 0.5rem black;
+}
+
+.select p {
+     color: var(--primary-color);
+     margin: 0 1rem;
+     font-size: 1.3rem;
+}
+
+select {
+     padding: .5rem 1.3rem;
+     margin: .5rem;
+     border-radius: 0.5rem;
+     background-color: transparent;
+     font-size: 1.3rem;
+     outline: none;
+     border: none;
+     color: var(--primary-color);
+     box-shadow: 0 0 0.5rem black;
+}
+
+.select option {
+     background-color: var(--primary-color);
+     color: var(--secondary-color);
+     padding: .5rem 1.3rem;
+
 }
