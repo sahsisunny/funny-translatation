@@ -4,7 +4,8 @@ This is a fun translation app made using vanillaJS. It translates English to Min
 
 ## How to use
 
-- Enter the text in the input box.
+- Select the characters you want to translate.
+- Enter the text you want to translate.
 - Click on the translate button.
 - The translated text will be displayed below.
 
@@ -14,3 +15,9 @@ This is a fun translation app made using vanillaJS. It translates English to Min
 - CSS
 - JavaScript
 - API - [funtranslations](https://funtranslations.com/api/minion)
+
+## Live Project
+
+[Live Project](https://bananatalkv2.netlify.app/)
+
+## Screenshots
