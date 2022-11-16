@@ -1,4 +1,4 @@
-# Banana Talk
+# Funny Translation
 
 - This is a fun translation app which translates english to minion , yoda and pirate language.
 - This app is made using fun translation api.
@@ -16,15 +16,15 @@
 - HTML
 - CSS
 - JavaScript
-- API - [funtranslations](https://funtranslations.com/api/minion)
+- API - [funtranslations](https://funtranslations.com/)
 
 ## Live Project
 
-[Live Project](https://bananatalkv2.netlify.app/)
+[Live Project](https://funnytranslationv2.netlify.app/)
 
 ## Screenshots
 
-![Bananaa Talk](https://raw.githubusercontent.com/sahsisunny/banana-talk/master/BananaTalkV2.png)
+![Funny Translation](https://raw.githubusercontent.com/sahsisunny/unny-translatation/master/funnytranslation.png)
 
 ## Connect with me
 
@@ -32,4 +32,4 @@
 - [Twitter](https://twitter.com/sahsisunny)
 - [Instagram](https://www.instagram.com/sahsisunny/)
 - [GitHub](https://github.com/sahsisunny)
-- [Portfolio](https://sahsisunny.netlify.app/)
+- [Portfolio](https://sunnysahsi.netlify.app/)
