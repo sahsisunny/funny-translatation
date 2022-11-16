@@ -24,7 +24,7 @@
 
 ## Screenshots
 
-![Funny Translation](https://raw.githubusercontent.com/sahsisunny/unny-translatation/master/funnytranslation.png)
+![Funny Translation](https://raw.githubusercontent.com/sahsisunny/funny-translatation/master/assets/funnytranslation.png)
 
 ## Connect with me
 
