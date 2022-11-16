@@ -1,4 +1,4 @@
-# Funny Translation
+# Minions Speaks
 
 - This is a fun translation app which translates english to minion , yoda and pirate language.
 - This app is made using fun translation api.
@@ -20,11 +20,11 @@
 
 ## Live Project
 
-[Live Project](https://funnytranslationv2.netlify.app/)
+[Live Project](https://minionsspeaksss.netlify.app/)
 
 ## Screenshots
 
-![Funny Translation](https://raw.githubusercontent.com/sahsisunny/funny-translatation/master/assets/funnytranslation.png)
+![Minions Speaks](https://raw.githubusercontent.com/sahsisunny/funny-translatation/Minions-speak/assets/Screenshot.png)
 
 ## Connect with me
 
